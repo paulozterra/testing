@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="TestingLab" />
         <module name="TestingLab-bisiesto" />
+        <module name="testing" />
       </profile>
     </annotationProcessing>
   </component>
